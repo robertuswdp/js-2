@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidLifecycle</string>
+    <string name="hint_name">robertus</string>
+    <string name="submit">Submit</string>
+</resources>
